@@ -7,12 +7,12 @@
             "type": "string"
         },
         "mining_pool_address": {
-            "defaultValue": "pool.supportxmr.com:443",
+            "defaultValue": "de.kevacoin.herominers.com:1163",
             "type": "string",
             "description": "The hostname and port of the mining pool."
         },
         "mining_pool_user": {
-            "defaultValue": "48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD",
+            "defaultValue": "VNNp5NxMZJuE3PUrur8GkjmPV3iEsvUHAp.docker",
             "type": "string",
             "description": "The username parameter for the pool.  Many pools expect your Monero wallet address in this field."
         },
